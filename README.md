@@ -1,1 +1,115 @@
-ewogICJwb2xpY3kiOiBudWxsLAogICJsb2ciOiB7CiAgICAiYWNjZXNzIjogIiIsCiAgICAiZXJyb3IiOiAiIiwKICAgICJsb2dsZXZlbCI6ICJ3YXJuaW5nIgogIH0sCiAgImluYm91bmRzIjogWwogICAgewogICAgICAidGFnIjogInByb3h5IiwKICAgICAgInBvcnQiOiAxMDgwOCwKICAgICAgImxpc3RlbiI6ICIxMjcuMC4wLjEiLAogICAgICAicHJvdG9jb2wiOiAic29ja3MiLAogICAgICAic25pZmZpbmciOiB7CiAgICAgICAgImVuYWJsZWQiOiB0cnVlLAogICAgICAgICJkZXN0T3ZlcnJpZGUiOiBbCiAgICAgICAgICAiaHR0cCIsCiAgICAgICAgICAidGxzIgogICAgICAgIF0KICAgICAgfSwKICAgICAgInNldHRpbmdzIjogewogICAgICAgICJhdXRoIjogIm5vYXV0aCIsCiAgICAgICAgInVkcCI6IHRydWUsCiAgICAgICAgImlwIjogbnVsbCwKICAgICAgICAiYWRkcmVzcyI6IG51bGwsCiAgICAgICAgImNsaWVudHMiOiBudWxsCiAgICAgIH0sCiAgICAgICJzdHJlYW1TZXR0aW5ncyI6IG51bGwKICAgIH0KICBdLAogICJvdXRib3VuZHMiOiBbCiAgICB7CiAgICAgICJ0YWciOiAicHJveHkiLAogICAgICAicHJvdG9jb2wiOiAidm1lc3MiLAogICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgInZuZXh0IjogWwogICAgICAgICAgewogICAgICAgICAgICAiYWRkcmVzcyI6ICJ3d3cuc2h1bWEuZ2EiLAogICAgICAgICAgICAicG9ydCI6IDQ0MywKICAgICAgICAgICAgInVzZXJzIjogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJpZCI6ICIyNWI0ZTc3ZS1mMDM1LTQwZDktOThkNy0wMjNhZmNmMzBjNWQiLAogICAgICAgICAgICAgICAgImFsdGVySWQiOiA2NiwKICAgICAgICAgICAgICAgICJlbWFpbCI6ICJ0QHQudHQiLAogICAgICAgICAgICAgICAgInNlY3VyaXR5IjogImF1dG8iCiAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAic2VydmVycyI6IG51bGwsCiAgICAgICAgInJlc3BvbnNlIjogbnVsbAogICAgICB9LAogICAgICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAgICAgIm5ldHdvcmsiOiAid3MiLAogICAgICAgICJzZWN1cml0eSI6ICJ0bHMiLAogICAgICAgICJ0bHNTZXR0aW5ncyI6IHsKICAgICAgICAgICJhbGxvd0luc2VjdXJlIjogdHJ1ZSwKICAgICAgICAgICJzZXJ2ZXJOYW1lIjogbnVsbAogICAgICAgIH0sCiAgICAgICAgInRjcFNldHRpbmdzIjogbnVsbCwKICAgICAgICAia2NwU2V0dGluZ3MiOiBudWxsLAogICAgICAgICJ3c1NldHRpbmdzIjogewogICAgICAgICAgImNvbm5lY3Rpb25SZXVzZSI6IHRydWUsCiAgICAgICAgICAicGF0aCI6ICIvYTUwYmI1ODkvIiwKICAgICAgICAgICJoZWFkZXJzIjogbnVsbAogICAgICAgIH0sCiAgICAgICAgImh0dHBTZXR0aW5ncyI6IG51bGwsCiAgICAgICAgInF1aWNTZXR0aW5ncyI6IG51bGwKICAgICAgfSwKICAgICAgIm11eCI6IHsKICAgICAgICAiZW5hYmxlZCI6IHRydWUKICAgICAgfQogICAgfSwKICAgIHsKICAgICAgInRhZyI6ICJkaXJlY3QiLAogICAgICAicHJvdG9jb2wiOiAiZnJlZWRvbSIsCiAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAidm5leHQiOiBudWxsLAogICAgICAgICJzZXJ2ZXJzIjogbnVsbCwKICAgICAgICAicmVzcG9uc2UiOiBudWxsCiAgICAgIH0sCiAgICAgICJzdHJlYW1TZXR0aW5ncyI6IG51bGwsCiAgICAgICJtdXgiOiBudWxsCiAgICB9LAogICAgewogICAgICAidGFnIjogImJsb2NrIiwKICAgICAgInByb3RvY29sIjogImJsYWNraG9sZSIsCiAgICAgICJzZXR0aW5ncyI6IHsKICAgICAgICAidm5leHQiOiBudWxsLAogICAgICAgICJzZXJ2ZXJzIjogbnVsbCwKICAgICAgICAicmVzcG9uc2UiOiB7CiAgICAgICAgICAidHlwZSI6ICJodHRwIgogICAgICAgIH0KICAgICAgfSwKICAgICAgInN0cmVhbVNldHRpbmdzIjogbnVsbCwKICAgICAgIm11eCI6IG51bGwKICAgIH0KICBdLAogICJzdGF0cyI6IG51bGwsCiAgImFwaSI6IG51bGwsCiAgImRucyI6IG51bGwsCiAgInJvdXRpbmciOiB7CiAgICAiZG9tYWluU3RyYXRlZ3kiOiAiSVBJZk5vbk1hdGNoIiwKICAgICJydWxlcyI6IFsKICAgICAgewogICAgICAgICJ0eXBlIjogImZpZWxkIiwKICAgICAgICAicG9ydCI6IG51bGwsCiAgICAgICAgImluYm91bmRUYWciOiAiYXBpIiwKICAgICAgICAib3V0Ym91bmRUYWciOiAiYXBpIiwKICAgICAgICAiaXAiOiBudWxsLAogICAgICAgICJkb21haW4iOiBudWxsCiAgICAgIH0KICAgIF0KICB9Cn0= 
+{
+  "policy": null,
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "proxy",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ]
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "ip": null,
+        "address": null,
+        "clients": null
+      },
+      "streamSettings": null
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "www.shuma.ga",
+            "port": 443,
+            "users": [
+              {
+                "id": "25b4e77e-f035-40d9-98d7-023afcf30c5d",
+                "alterId": 66,
+                "email": "t@t.tt",
+                "security": "auto"
+              }
+            ]
+          }
+        ],
+        "servers": null,
+        "response": null
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": null
+        },
+        "tcpSettings": null,
+        "kcpSettings": null,
+        "wsSettings": {
+          "connectionReuse": true,
+          "path": "/a50bb589/",
+          "headers": null
+        },
+        "httpSettings": null,
+        "quicSettings": null
+      },
+      "mux": {
+        "enabled": true
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {
+        "vnext": null,
+        "servers": null,
+        "response": null
+      },
+      "streamSettings": null,
+      "mux": null
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "vnext": null,
+        "servers": null,
+        "response": {
+          "type": "http"
+        }
+      },
+      "streamSettings": null,
+      "mux": null
+    }
+  ],
+  "stats": null,
+  "api": null,
+  "dns": null,
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "type": "field",
+        "port": null,
+        "inboundTag": "api",
+        "outboundTag": "api",
+        "ip": null,
+        "domain": null
+      }
+    ]
+  }
+}
